@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there / Olá 👋
 
 Sou desenvolvedor Java FullStack, amante de tecnologias.
 I am a Java developer FullStack, a lover of technologies.
