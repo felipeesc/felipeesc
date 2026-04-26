@@ -1,33 +1,67 @@
-### Hi there / Olá 👋
+# Felipe Carvalho
 
-Sou desenvolvedor Java FullStack, amante de tecnologias.
-I am a Java developer FullStack, a lover of technologies.
+**Tech Lead | Java & Spring Boot | AI Agents | Brasília, DF 🇧🇷**
 
-- 🎓 &nbsp; Explorando o mundo de desenvolvimento de tecnologia.
-- 🎓 &nbsp; Exploring the world of technology development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Carvalho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipe-carvalho-fc7)
+
+---
+
+## 👋 Sobre mim / About me
+
+🇧🇷 Sou Tech Lead com sólida experiência em Java e Spring Boot, incluindo Java EE. Tenho experiência com diferentes estilos arquiteturais, monolito, microsserviços e monolito modular. Aplico DDD no design de sistemas. Atuo na liderança técnica de times, tomada de decisões de arquitetura e entrega de software com qualidade e performance. Atualmente aprofundando conhecimentos em AI Agents, cloud e inglês.
+
+🇺🇸 I'm a Tech Lead with strong experience in Java and Spring Boot, including Java EE. I work with different architectural styles, monolith, microservices, and modular monolith. Apply DDD in system design. I focus on technical leadership, architecture decisions, and delivering high-quality, high-performance software. Currently deepening my knowledge in AI Agents, cloud, and English.
+
+---
+
+## 🎯 Foco atual / Current focus
+
+- 🤖 **AI Agents** - construindo sistemas agênticos com LLMs e Spring Boot
+- ⚡ **Performance** - otimização de aplicações Java em produção
+- ☁️ **Cloud** - estudando arquiteturas e serviços em nuvem
+- 🇺🇸 **English** - aprimorando fluência técnica
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Java EE](https://img.shields.io/badge/Java%20EE-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+**Frontend**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+**Banco de dados / Databases**
+
+Relacional: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+Não relacional: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Arquitetura & Design / Architecture & Design**
+
+`Monolith` `Microservices` `Modular Monolith` `DDD`
+
+**Build & CI/CD**
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+**DevOps & Ferramentas / Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
 
 
-## ⚡ Tecnologias
+## 📫 Contato / Contact
 
-Estas são algumas das tecnologias e ferramentas com as quais trabalho:
-
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-carvalho-fc7)
+- 🐙 [GitHub](https://github.com/felipeesc)
