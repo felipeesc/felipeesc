@@ -8,9 +8,11 @@
 
 ## 👋 Sobre mim / About me
 
-🇧🇷 Sou Tech Lead com sólida experiência em Java e Spring Boot, incluindo Java EE. Tenho experiência com diferentes estilos arquiteturais, monolito, microsserviços e monolito modular. Aplico DDD no design de sistemas. Atuo na liderança técnica de times, tomada de decisões de arquitetura e entrega de software com qualidade e performance. Atualmente aprofundando conhecimentos em AI Agents, cloud e inglês.
+🇧🇷 
+Sou Tech Lead com sólida experiência em Java e Spring Boot, incluindo Java EE. Tenho experiência com diferentes estilos arquiteturais - monolito, microsserviços e monolito modular - e aplico DDD no design de sistemas. Atuo na liderança técnica de times, tomada de decisões de arquitetura e entrega de software com qualidade e performance. Atualmente aprofundando conhecimentos em AI Agents, cloud e inglês.
 
-🇺🇸 I'm a Tech Lead with strong experience in Java and Spring Boot, including Java EE. I work with different architectural styles, monolith, microservices, and modular monolith. Apply DDD in system design. I focus on technical leadership, architecture decisions, and delivering high-quality, high-performance software. Currently deepening my knowledge in AI Agents, cloud, and English.
+🇺🇸
+I'm a Tech Lead with strong experience in Java and Spring Boot, including Java EE. I work with different architectural styles - monolith, microservices, and modular monolith - and apply DDD in system design. I focus on technical leadership, architecture decisions, and delivering high-quality, high-performance software. Currently deepening my knowledge in AI Agents, cloud, and English.
 
 ---
 
@@ -29,6 +31,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Java EE](https://img.shields.io/badge/Java%20EE-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 **Frontend**
@@ -45,7 +48,7 @@ Não relacional: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=fl
 
 **Arquitetura & Design / Architecture & Design**
 
-`Monolith` `Microservices` `Modular Monolith` `DDD`
+`Monolith` `Microservices` `Modular Monolith` `DDD` `Event Driven Architecture`
 
 **Build & CI/CD**
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
@@ -59,7 +62,6 @@ Não relacional: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=fl
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-
 
 ## 📫 Contato / Contact
 
