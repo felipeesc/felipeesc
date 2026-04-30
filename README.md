@@ -1,5 +1,4 @@
 # Felipe Carvalho
-
 **Tech Lead | Java & Spring Boot | AI Agents | Brasília, DF 🇧🇷**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Carvalho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipe-carvalho-fc7)
@@ -8,58 +7,60 @@
 
 ## 👋 Sobre mim / About me
 
-🇧🇷 
-Sou Tech Lead com sólida experiência em Java e Spring Boot, incluindo Java EE. Tenho experiência com diferentes estilos arquiteturais - monolito, microsserviços e monolito modular - e aplico DDD no design de sistemas. Atuo na liderança técnica de times, tomada de decisões de arquitetura e entrega de software com qualidade e performance. Atualmente aprofundando conhecimentos em AI Agents, cloud e inglês.
+🇧🇷 Sou Tech Lead com sólida experiência em Java e Spring Boot, incluindo Java EE. Tenho experiência com diferentes estilos arquiteturais — monolito, microsserviços e monolito modular — e aplico DDD no design de sistemas. Atuo na liderança técnica de times, tomada de decisões de arquitetura e entrega de software com qualidade e performance. Atualmente aprofundando conhecimentos em AI Agents, cloud e inglês.
 
-🇺🇸
-I'm a Tech Lead with strong experience in Java and Spring Boot, including Java EE. I work with different architectural styles - monolith, microservices, and modular monolith - and apply DDD in system design. I focus on technical leadership, architecture decisions, and delivering high-quality, high-performance software. Currently deepening my knowledge in AI Agents, cloud, and English.
+🇺🇸 I'm a Tech Lead with strong experience in Java and Spring Boot, including Java EE. I work with different architectural styles — monolith, microservices, and modular monolith — and apply DDD in system design. I focus on technical leadership, architecture decisions, and delivering high-quality, high-performance software. Currently deepening my knowledge in AI Agents, cloud, and English.
 
 ---
 
 ## 🎯 Foco atual / Current focus
 
-- 🤖 **AI Agents** - construindo sistemas agênticos com LLMs e Spring Boot
-- ⚡ **Performance** - otimização de aplicações Java em produção
-- ☁️ **Cloud** - estudando arquiteturas e serviços em nuvem
-- 🇺🇸 **English** - aprimorando fluência técnica
+- 🤖 **AI Agents** — construindo sistemas agênticos com LLMs e Spring Boot
+- ⚡ **Performance** — otimização de aplicações Java em produção
+- ☁️ **Cloud** — estudando arquiteturas e serviços em nuvem
+- 🇺🇸 **English** — aprimorando fluência técnica
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-**Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Java EE](https://img.shields.io/badge/Java%20EE-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="140"><b>Backend</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=java,spring,kotlin,nodejs" alt="Backend stack" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140"><b>Frontend</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=angular,react,ts,js" alt="Frontend stack" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140"><b>Cloud & DevOps</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,jenkins" alt="Cloud and DevOps stack" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140"><b>Data & Messaging</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka" alt="Data stack" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="140"><b>Tooling</b></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,git,maven" alt="Tooling stack" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-**Frontend**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-
-**Banco de dados / Databases**
-
-Relacional: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-
-Não relacional: ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-**Arquitetura & Design / Architecture & Design**
-
+**Arquitetura & Design**
 `Monolith` `Microservices` `Modular Monolith` `DDD` `Event Driven Architecture`
-
-**Build & CI/CD**
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
-**DevOps & Ferramentas / Tools**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat&logo=redhatopenshift&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
