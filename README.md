@@ -1,5 +1,5 @@
 # Felipe Carvalho
-**Tech Lead | Java & Spring Boot | AI Agents | Brasília, DF 🇧🇷**
+**Tech Lead | Java & Spring Boot | AI Agents | Brasília, DF     🇧🇷**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Carvalho-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipe-carvalho-fc7)
 
