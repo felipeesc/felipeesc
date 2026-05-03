@@ -7,9 +7,9 @@
 
 ## 👋 Sobre mim / About me
 
-🇧🇷 Sou Tech Lead com sólida experiência em Java e Spring Boot, incluindo Java EE. Tenho experiência com diferentes estilos arquiteturais — monolito, microsserviços e monolito modular — e aplico DDD no design de sistemas. Atuo na liderança técnica de times, tomada de decisões de arquitetura e entrega de software com qualidade e performance. Atualmente aprofundando conhecimentos em AI Agents, cloud e inglês.
+🇧🇷 Sou Tech Lead com sólida experiência em Java e Spring Boot, incluindo Java EE. Tenho experiência com diferentes estilos arquiteturais, monolito, microsserviços e monolito modular — e aplico DDD no design de sistemas. Atuo na liderança técnica de times, tomada de decisões de arquitetura e entrega de software com qualidade e performance. Atualmente aprofundando conhecimentos em AI Agents, cloud e inglês.
 
-🇺🇸 I'm a Tech Lead with strong experience in Java and Spring Boot, including Java EE. I work with different architectural styles — monolith, microservices, and modular monolith — and apply DDD in system design. I focus on technical leadership, architecture decisions, and delivering high-quality, high-performance software. Currently deepening my knowledge in AI Agents, cloud, and English.
+🇺🇸 I'm a Tech Lead with strong experience in Java and Spring Boot, including Java EE. I work with different architectural styles, monolith, microservices, and modular monolith — and apply DDD in system design. I focus on technical leadership, architecture decisions, and delivering high-quality, high-performance software. Currently deepening my knowledge in AI Agents, cloud, and English.
 
 ---
 
