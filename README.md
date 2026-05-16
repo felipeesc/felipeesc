@@ -16,7 +16,7 @@
 ## 🎯 Foco atual / Current focus
 
 - 🤖 **AI Agents** — construindo sistemas agênticos com LLMs e Spring Boot
-- ⚡ **Performance** — otimização de aplicações Java em produção
+- ⚡ **Performance** — otimização de aplicações Java em produção 
 - ☁️ **Cloud** — estudando arquiteturas e serviços em nuvem
 - 🇺🇸 **English** — aprimorando fluência técnica
 
