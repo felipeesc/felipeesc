@@ -11,7 +11,7 @@
 
 🇺🇸 I'm a Tech Lead with strong experience in Java and Spring Boot, including Java EE. I work with different architectural styles, monolith, microservices, and modular monolith — and apply DDD in system design. I focus on technical leadership, architecture decisions, and delivering high-quality, high-performance software. Currently deepening my knowledge in AI Agents, cloud, and English.
 
----
+--- 
 
 ## 🎯 Foco atual / Current focus
 
